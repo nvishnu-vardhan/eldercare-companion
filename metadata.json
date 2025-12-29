@@ -1,0 +1,9 @@
+{
+  "name": "ElderCare AI",
+  "description": "A caring AI companion connecting busy professionals with their aging parents in smaller Indian cities through daily check-ins and actionable summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
